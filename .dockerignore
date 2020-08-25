@@ -4,5 +4,7 @@ Dockerfile
 .dockerignore
 docker-compose.yml
 
+README.md
+
 /data
 .master
