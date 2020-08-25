@@ -3,6 +3,7 @@
 RTMP Live Video Recorder
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/mingslife/rtmp-recorder)](https://goreportcard.com/report/mingslife/rtmp-recorder)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 简介
 
@@ -120,3 +121,7 @@ docker-compose build && docker-compose up -d
 * [RTMPDump](http://rtmpdump.mplayerhq.hu/)
 * [FLVMeta](https://flvmeta.com/)
 * [Gin](https://gin-gonic.com/)
+
+## 许可证
+
+MIT
